@@ -1,0 +1,13 @@
+# Basic config
+language: node_js
+node_js:
+  - "7"
+
+# Caching...
+cache:
+  directories:
+    - "node_modules"
+
+# Execute unit tests
+script:
+  - npm test -- -v

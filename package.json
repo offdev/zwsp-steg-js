@@ -1,0 +1,14 @@
+{
+  "name": "zwsp-steg",
+  "version": "1.0.0",
+  "description": "Zero-Width Space Steganography, encodes/decodes hidden messages as non printable/readable characters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "Pascal Severin",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "ava": "^1.0.0-beta.3"
+  }
+}
