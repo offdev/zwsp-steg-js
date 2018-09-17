@@ -3,6 +3,8 @@ Zero-Width Space Steganography. Encodes and decodes hidden messages as non print
 
 [![npm](https://img.shields.io/npm/v/zwsp-steg.svg)](https://www.npmjs.com/package/zwsp-steg)
 [![Travis](https://img.shields.io/travis/offdev/zwsp-steg-js.svg)](https://travis-ci.org/offdev/zwsp-steg-js)
+[![dependencies Status](https://david-dm.org/offdev/zwsp-steg-js/status.svg)](https://david-dm.org/offdev/zwsp-steg-js)
+[![devDependencies Status](https://david-dm.org/offdev/zwsp-steg-js/dev-status.svg)](https://david-dm.org/offdev/zwsp-steg-js?type=dev)
 [![License](https://img.shields.io/github/license/offdev/zwsp-steg-js.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 ### Installation
