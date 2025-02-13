@@ -1,5 +1,5 @@
 # zwsp-steg
-Zero-Width Space Steganography. Encodes and decodes hidden messages as non printable/readable characters. A demo can be found [here](https://offdev.net/demos/zwsp-steg-js).
+Zero-Width Space Steganography. Encodes and decodes hidden messages as non-printable/readable characters.
 
 [![npm](https://img.shields.io/npm/v/zwsp-steg.svg)](https://www.npmjs.com/package/zwsp-steg)
 [![Travis](https://img.shields.io/travis/offdev/zwsp-steg-js.svg)](https://travis-ci.org/offdev/zwsp-steg-js)
